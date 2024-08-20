@@ -6,7 +6,7 @@ import numpy as np
 from scipy.signal import argrelextrema
 import matplotlib.pyplot as plt
 import datetime as dt
-from Harmonicpatterns import *
+from harmonic_patterns import *
 import MetaTrader5 as mt
 import time
 import config
